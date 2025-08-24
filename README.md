@@ -42,7 +42,6 @@ Everything your club needs in a single system — modern, secure, and easy to us
 ## 🖼️ Preview
 
 ![App Preview](assets/PadelClub.png)  
-*(Replace this path with your actual image)*
 
 ---
 
